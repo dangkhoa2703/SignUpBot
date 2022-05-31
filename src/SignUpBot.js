@@ -115,10 +115,8 @@ async function signUpBot(account) {
 }
 
 (async function book() {
-  //list of accounts which do the booking
-  const accounts = [
-    // ["minhdan1405@gmail.com", "Minhdan1405@deutsch"],
-    ["dangkhoa27031997@gmail.com", "B4byMet@l2703"],
+  //enter your account here with the form: [<account_name>, <passwort>]
+  const accounts = [],
   ];
   for (let account of accounts) {
     signUpBot(account);
