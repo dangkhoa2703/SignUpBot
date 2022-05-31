@@ -9,5 +9,7 @@ this bot automate the booking process of the badminton course on HSP Dortmund:
 
 4. Install all dependencies throug CLT with: npm install 
 
-5. Open Task Schedualer and create new task that run signUpBot.sh. Set trigger according to your sport.
+5. Enter your account the account list in 119 in src/SignUpBot
+
+6. Open Task Schedualer and create new task that run signUpBot.sh. Set trigger according to your sport.
 In the condition set the 'wake the computer to run this task' to on.
