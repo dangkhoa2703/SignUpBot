@@ -1,0 +1,1 @@
+node ./src/SignUpBot.js

@@ -1,0 +1,16 @@
+{
+  "name": "signupbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SignUpBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dang Khoa Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^101.0.0",
+    "selenium-webdriver": "^4.2.0"
+  }
+}
