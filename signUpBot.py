@@ -56,8 +56,7 @@ match datetime.now().weekday(): # get day of the week
             signIn('//*[@id="bs_tr2203EF9FD2"]/td[9]/input')
         except:
             driver.quit()
-    # case 2:
-    case 6:
+    case 3:
         try:
             signIn('//*[@id="bs_tr2203EF9F79"]/td[9]/input')
         except:
