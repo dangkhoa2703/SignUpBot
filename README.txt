@@ -19,11 +19,6 @@ This is a signup bot for the reigstration of the badminton courses of HSP TU Dor
 password of the HSP TU Dortmund.
 
 
-3. Create a normal .txt and add: python ./signUpBot.py and change the end of the created test file to .sh. This .sh file must be in
+3. Create an automate task to automate the program. Search for Task sCheduler on your computer and then create a basic task that 
 
-the same directory of your signUpBot.py file or else it won't run. This file is to run the signUpBot.py through cmd.
-
-
-4. Create an automate task to automate the program. Search for Task sCheduler on your computer and then create a basic task that 
-
-run the .sh file you just created. REMEMBER TO SET THE TRIGGER OF THE TASK CORRECTLY!!!
+run the .sh file. REMEMBER TO SET THE TRIGGER OF THE TASK CORRECTLY!!!
